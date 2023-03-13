@@ -6,9 +6,25 @@ A list of themes or styles for the LaTeX package listings.
 
 ## Themes
 
+### Atom One Light
+
+![Atom One Light](examples/atom-one-light/preview.png)
+
 ### Ayu
 
 ![Ayu](examples/ayu/preview.png)
+
+### Black And White
+
+![Black And White](examples/black-and-white/preview.png)
+
+### Brackets Light Pro
+
+![Brackets Light Pro](examples/brackets-light-pro/preview.png)
+
+### Eclipse
+
+![Eclipse](examples/eclipse/preview.png)
 
 ### Eisvogel
 
@@ -25,6 +41,10 @@ A list of themes or styles for the LaTeX package listings.
 ### IntelliJ Light
 
 ![IntelliJ Light](examples/intellij-light/preview.png)
+
+### Monokai Light
+
+![Monokai Light](examples/monokai-light/preview.png)
 
 ### Solarized Light
 

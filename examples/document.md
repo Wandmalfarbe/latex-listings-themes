@@ -6,9 +6,10 @@ subject: "Listings"
 keywords: [LaTeX, Listings, Theme, Syntax Highlighting]
 lang: "en"
 geometry:
-  - margin=0.5cm
-  - top=0.2cm
-  - paperheight=14.3cm,
+  - margin=0.3cm
+  - top=0.0cm
+  - paperheight=9.2cm
+  - paperwidth=15cm
 disable-header-and-footer: true
 ...
 
@@ -33,17 +34,4 @@ public class Example implements LoremIpsum {
         return true;
     }
 }
-```
-
-``` html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>This is the title of the page.</title>
-  </head>
-  <body>
-    <a href="http://example.com">This is a link.</a>
-    <img src="./image.jpg" alt="This is an image.">
-  </body>
-</html>
 ```
